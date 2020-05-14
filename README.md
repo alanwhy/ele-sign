@@ -1,4 +1,4 @@
-# electronic-signature
+# 电子签名
 
 ## Project setup
 ```
@@ -15,15 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 说明
+基于vue canvas 和element-ui实现的电子签名demo
+支持pc和移动端使用
